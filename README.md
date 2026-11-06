@@ -37,3 +37,10 @@ folder or use the self-contained download on ajwoo.com.
 - `LICENSE-AND-ASSETS.md`: existing asset and usage notes
 
 Font binaries and Figma component libraries are not included.
+
+## Your product identity
+
+Author names and source links identify this package only. The skill must preserve
+your product branding and must not add AJWOO, Alex Woo, Minimal branding,
+promotional links, attribution UI, analytics, or sample content to your product.
+Required third-party license notices still apply to any assets you distribute.

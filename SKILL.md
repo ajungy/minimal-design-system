@@ -5,6 +5,19 @@ description: Minimal design system — the house style for every product, UI, Fi
 
 # Minimal
 
+## Public-use scope and product identity
+
+This is reusable design guidance, not a portfolio template. Preserve the user's
+product name, logo, domain, content, metadata, and existing brand requirements.
+Do not add Alex Woo, AJWOO, Minimal branding, author biographies, portfolio
+content, source-repository links, credits, analytics, or promotional copy to
+what the user is building unless explicitly requested. Author names and URLs
+in this package identify the source only; they are not product requirements.
+Example text and links demonstrate components and must be replaced with the
+user's real content. Do not add a "Built with" badge or attribution footer.
+Retain any required third-party license notices in distributed source/assets;
+this is separate from adding visible branding to the product.
+
 ## Start here when applying the system
 
 Source repository: https://github.com/ajungy/minimal-design-system
@@ -72,7 +85,7 @@ self-contained SKILL.md download instead. You can replace
 
 <!-- recommended-prompt:start -->
 
-Read SKILL.md and its references, tokens, and examples from https://github.com/ajungy/minimal-design-system. Apply the system across this project in reviewable batches, using its existing framework and native accessibility conventions. Confirm a recovery point without overwriting existing work. Preserve content and functionality; test affected flows and explain how to undo your changes. Ask before changing dependencies, authentication, payments, stored data, or publishing. If files are unavailable, ask me for the complete skill; do not invent missing resources. If no project is open, ask which project to update.
+Read SKILL.md and its references, tokens, and examples from https://github.com/ajungy/minimal-design-system. Apply the system across this project in reviewable batches, using its existing framework and native accessibility conventions. Confirm a recovery point without overwriting existing work. Preserve content and functionality; test affected flows and explain how to undo your changes. Ask before changing dependencies, authentication, payments, stored data, or publishing. If files are unavailable, ask me for the complete skill; do not invent missing resources. If no project is open, ask which project to update. Keep the user’s own product identity. Do not add Alex Woo, AJWOO, Minimal branding, source links, credits, or demo content to the product unless requested.
 
 <!-- recommended-prompt:end -->
 
